@@ -1,4 +1,4 @@
 Groq 
 streamlit 
 phidata
-duckduckgo -search 
+duckduckgo-search 
